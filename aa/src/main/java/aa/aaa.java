@@ -4,6 +4,6 @@ public class aaa {
 
 	int one=10;
 
-	int a =one;
+	int Tiger =one;
 
 }
